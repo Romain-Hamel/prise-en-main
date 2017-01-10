@@ -8,5 +8,15 @@
 	<header>
 		<h1>Mon site avec GITHUB</h1>
 	</header>
+
+	<main>
+		<section>
+			<h2>Ma premiere section</h2>
+		</section>
+	</main>
+
+	<footer>
+		<p>tout droits réservés</p>
+	</footer>
 </body>
 </html>
