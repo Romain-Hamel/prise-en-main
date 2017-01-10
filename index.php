@@ -13,7 +13,7 @@
 	<main>
 		<section>
 			<h2>Ma premiere section</h2>
-			<p>Du contenu pour la section</p>
+			<div>Le contenu changé avec une balise div</div>
 		</section>
 	</main>
 
